@@ -1,6 +1,6 @@
 # Multi-Agent Basket Selection with Options Forecasting
 
-Deployed algorithmic trading strategy utilizing a multi-agent stock selection framework, sentiment analysis, and options forecasting via a feed-forward nueral network.
+<!-- Deployed algorithmic trading strategy utilizing a multi-agent stock selection framework, sentiment analysis, and options forecasting via a feed-forward nueral network.
 
 ## Features
 
@@ -14,4 +14,4 @@ Deployed algorithmic trading strategy utilizing a multi-agent stock selection fr
 Backtested across multiple periods, achieving:
 - **Out-of-Sample A**: 18.66% annual return, 1.584 Sharpe ratio.
 - **Out-of-Sample B**: 16.98% annual return, 1.189 Sharpe ratio.
-- **Drawdown**: Controlled under 10% in most cases.
+- **Drawdown**: Controlled under 10% in most cases. -->

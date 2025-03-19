@@ -1,7 +1,8 @@
 # Multi-Agent Basket Selection with Options Forecasting
 
-<!-- Deployed algorithmic trading strategy utilizing a multi-agent stock selection framework, sentiment analysis, and options forecasting via a feed-forward nueral network.
+Deployed algorithmic trading strategy utilizing a multi-agent stock selection framework, sentiment analysis, and options forecasting via a feed-forward nueral network.
 
+<!-- 
 ## Features
 
 - **Multi-Agent Security Selection**: Uses 6 agents for stock selection, correlation analysis, filtering, and final portfolio construction.
